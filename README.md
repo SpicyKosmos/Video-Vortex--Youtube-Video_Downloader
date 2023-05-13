@@ -1,3 +1,3 @@
 # Video-Vortex--Youtube-Video_Downloader
 
-create a folder called Downloads to the folders where you downloaded the files
+You should create a folder named "Downloads" in the location where you downloaded VideoVortex.py and create 2 folders named "Video" and "Audio" in it.
